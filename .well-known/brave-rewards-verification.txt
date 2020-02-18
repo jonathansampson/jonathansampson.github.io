@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jonathansampson.github.io
+Token: e6f8952ad35e360fbfd29476c7c2627c0b34e75a568aa9eb06736a1e29c7433c

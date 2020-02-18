@@ -1,4 +1,0 @@
-This is a Brave Payments publisher verification file.
-
-Domain: jonathansampson.github.io
-Token: e1de71a23e79ac2e0ae088d8a7d36a59e60bcf77752a5c0aba797b0b42246555
